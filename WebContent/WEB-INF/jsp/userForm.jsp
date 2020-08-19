@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Registration Page</title>
 </head>
-<body>
+<body bgcolor="cyan">
 
 <form:form method="POST" commandName="user">
 	<table>
@@ -55,7 +55,7 @@
 		</tr>
 	</table>
 
-<table width=40%" bgcolor="yellow" align="center" border=2>
+<table width=80%" bgcolor="yellow" align="center" border=2>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
